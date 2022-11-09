@@ -8,3 +8,5 @@ A generalized method to estimate Event_Diffusion_Momentum (EDM)
 - an Excel file of American POTUS and Governors party affiliation info.
 - an Excel file of geographical coordinates.
 - an R script for producing the results.
+
+### The appendices (in PDF format) can also be found in the folder.
